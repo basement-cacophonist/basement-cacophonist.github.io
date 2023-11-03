@@ -1,8 +1,8 @@
 {
     "lang": "en-us",
-    "name": "Temperature converter app",
-    "short_name": "Temperature converter",
-    "description": "A basic temperature converter application that can convert to and from Celsius, Kelvin, and Fahrenheit",
+    "name": "Beat Tools app",
+    "short_name": "Beat Tools",
+    "description": "A basic utility for rhythm calculations",
     "start_url": "/",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
@@ -10,7 +10,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "/icon512.png",
+            "src": "/img/icon512.png",
             "sizes": "512x512"
         }
     ]
